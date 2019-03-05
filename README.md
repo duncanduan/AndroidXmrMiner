@@ -1,4 +1,4 @@
-# Monero Miner for Android
+# Android Monero Miner
 
 Proof of concept using the xmrig miner inside an Android APK.
 Get the source at github: https://github.com/duncanduan/AndroidXmrMiner
