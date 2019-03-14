@@ -3,7 +3,7 @@
 Proof of concept using the xmrig miner inside an Android APK.
 Get the source at github: https://github.com/duncanduan/AndroidXmrMiner
 
-Based on the binaries from xmrig(2.13.1) Which is based on the code from https://github.com/xmrig/xmrig.  
+Based on the binaries from xmrig(2.14.1) Which is based on the code from https://github.com/xmrig/xmrig.  
 
 
 # Usage
